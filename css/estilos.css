@@ -6,7 +6,7 @@
 }
 body{
     height: 100vh;
-    background: url(../imagen/perfil.jpg) no-repeat center;
+    background: url(../imagen/fondo.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     align-items: center;
